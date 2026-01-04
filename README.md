@@ -37,7 +37,6 @@ User → React Web → Gradio UI → PyTorch Model → Segmentation Output
 - Google Drive – dataset storage
 
 ## 🔮 Future Scope
-- API access
 - Deployment using Google Vertex AI
 - Multi-object segmentation
 
